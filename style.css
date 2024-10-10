@@ -4,20 +4,33 @@ body{
 .suporte{
     display: flex;
     height: 30px;
+    flex-direction: row;
+    justify-content: space-between ;
+    gap: 10px;
     background-color: black;
     align-items: center;
     color: #ff6f61;
 }
-.suporte.logos{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    gap: 20px;
-    align-items: center;
+.logo{
+    width: 10px;
+    height: 10px;
 }
 .logoimg{
     border: solid 2px black;
     width: 30px;
     height: 30px;
     gap: 20px;
+}
+.email{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+.tel{
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
+header{
+    
 }
