@@ -6,6 +6,8 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+.suporte.logo.logoimg{
     width: 4px;
     height: 4px;
 }
