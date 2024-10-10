@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    background-color: #f3f6ff;
 }
 .suporte{
     display: flex;
@@ -54,12 +55,13 @@ body{
     flex-direction: row;
     gap:50px;
     list-style-type: none;
+    writing-mode: horizontal-tb;
 }
 .barra{
     background-color: #ff6f61;
 }
 .l7{
-   margin-left: 35vw;
+   margin-left: 20vw;
    text-decoration: none;
    color: #ffffffff;
    align-items: center;
@@ -68,9 +70,39 @@ body{
     display: flex;
     align-items: center;
     gap: 20px;
+    background-color: #ffffffff;
+    height: 15vh;
+    margin-top: 0;
 }
 #pesquisa{
-    border: solid, 2px, orangered;
+    border: solid, 2px, #ff6f61;
+    width: 30vw;
+    height: 5vh;
+}
+.menupai{
+    display: flex;
+    margin-top: 30vh;
+    gap: 20px;
+    height: 25vh;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.menu{
+    background-color: #ffffffff;
+    list-style-type: none; 
+    width: 10vw;
+}
+.menuitem{
+    text-decoration: none;
+    border: solid, 1px, #f3f6ff;
+    height: 5vh;
+}
+#imgmeio{
     width: 20vw;
-    height: 10vh;
+    height: 35vh;
+}
+.imgfinal{
+    width: 20vw;
+    height: 35vh;
 }
