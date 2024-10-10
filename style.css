@@ -1,13 +1,16 @@
 .suporte{
     display: flex;
-    
+    height: 5px;
 }
 .suporte.logos{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    gap: 20px;
+    align-items: baseline;
 }
-.suporte.logo.logoimg{
-    width: 4px;
-    height: 4px;
+.logoimg{
+    width: 30px;
+    height: 30px;
+    gap: 20px;
 }
