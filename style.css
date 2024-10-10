@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.suporte{
+    display: flex;
+    height: 30px;
+    background-color: black;
+    align-items: center;
+    color: #ff6f61;
+}
+.suporte.logos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 20px;
+    align-items: center;
+}
+.logoimg{
+    border: solid 2px black;
+    width: 30px;
+    height: 30px;
+    gap: 20px;
+}
