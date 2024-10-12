@@ -365,6 +365,27 @@ body{
     height: 20%;
 }
 .rodape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 30vh;
-    color: #f3f6ff;
+    background-color:black;
+}
+#prose{
+    color: #ff6f61;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
+.pb{
+    color: #ffffffff;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
+@media (width<768px) {
+    *{
+        display: flex;
+        flex-direction: column;
+    }
 }
