@@ -343,4 +343,24 @@ body{
     display: flex;
     border: solid, 1px, #888888 ;
     background-color: #ffffffff;
+    height: 15vh;
+    justify-content: space-evenly;
+}
+.securepagament{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.imgsp{
+    height: 50%;
+}
+.Payment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.imgspay{
+    height: 20%;
 }
