@@ -100,7 +100,7 @@ body{
 .menuitem{
     text-decoration: none;
     border: solid, 2px, #f3f6ff;
-    height: 4vh;
+    height: 5,5vh;
     color: #353535;
     font-family: "Open Sans", sans-serif;
     font-style: normal;
@@ -130,6 +130,20 @@ body{
     margin-top: 15px;
     margin-left: 60px;
 }
+.ps{
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color: #353535;
+}
+.hs{
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
+.sc{
+    background-color: #ffffffff;
+}
 .MainBanner{
     display: flex;
     justify-content: center;
@@ -154,4 +168,147 @@ body{
 }
 .imgmn{
     height: 15vh;
+}
+.call{
+    display: flex;
+    justify-content: space-between;
+    background-color:#ff6f61;
+}
+.branco{
+    color: #ffffffff;
+    margin-left: 40px;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 24px;
+}
+.calltel{
+    border: solid, 2px, #ffffffff;
+    margin: 20px;
+    margin-right: 40px;
+    width: 15vw;
+}
+#ptel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffffff;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    
+}
+.title{
+    color:#ff6f61;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    margin-left: 10vw;
+}
+.Produtos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    width: 15vw;
+    height: 50vh;
+    border: solid, 1px, #353535;
+    
+}
+.pname{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    color: #f3f6ff;
+    background-color: black;
+    width: 100%;
+    height: 30%;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
+.imgp{
+    width: 100%;
+    height: 60%;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.pp{
+    display: flex;
+    color: #f3f6ff;
+    background-color: black;
+    width: 100%;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
+.btn{
+   color: black;
+   background-color: #ff6f61;
+   font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+}
+.sub{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#ff6f61;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    margin-top: 5vh;
+}
+.emailsub{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2vw;
+    height: 5vh;
+    border: solid, 2px,  #ffffffff;
+}
+.psqsub{
+    height: 100%;
+    border: solid,1px, #ffffffff;
+}
+.btnsub{
+    color: #ffffffff;
+    background-color: #ff6f61;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    height: 100%;
+    border: solid,1px, #ffffffff;
+}
+.Customer{
+    display: flex;
+}
+.Customer-G{
+    display: flex;
+    border: solid, 2px, #f3f6ff;
+    margin-top: 5vh;
+    margin-left: 10vw;
+}
+.infocus{
+    background-color: #ffffffff;
+    width: 35vh;
+}
+.textcus{
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color: #888888;
+    margin-left: 10px;
 }
