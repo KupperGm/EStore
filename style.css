@@ -386,6 +386,226 @@ body{
 @media (width<768px) {
     *{
         display: flex;
+        flex-direction: column;  
+    }
+    .suporte{
+        display: flex;
+        flex-direction: column;                    ;
+    }
+    .ainfo{
+        display: flex;
+        flex-direction: column;  
+    }
+    .barra{
+        display: flex;
+        flex-direction: column;  
+    }
+    .bn{
+        display: flex;
+        flex-direction: column;  
+    }
+    .branco{
+        display: flex;
+        flex-direction: column;  
+    }
+    .Brand{
+        display: flex;
+        flex-direction: column;  
+    }
+    .btn{
+        display: flex;
+        flex-direction: column;  
+    }
+    .btnsub{
+        display: flex;
+        flex-direction: column;  
+    }
+    .call{
+        display: flex;
+        flex-direction: column;  
+    }
+    .calltel{
+        display: flex;
+        flex-direction: column;  
+    }
+    .Customer{
+        display: flex;
+        flex-direction: column;  
+    }
+    .Customer-G{
+        display: flex;
+        flex-direction: column;  
+    }
+    .eletronicos{
+        display: flex;
+        flex-direction: column;  
+    }
+    .email{
+        display: flex;
+        flex-direction: column;  
+    }
+    .emailsub{
+        display: flex;
+        flex-direction: column;  
+    }
+    .header{
+        display: flex;
+        flex-direction: column;  
+    }
+    .hs{
+        display: flex;
+        flex-direction: column;  
+    }
+    .imgchildren{
+        display: flex;
+        flex-direction: column;  
+    }
+    .imgfinal{
+        display: flex;
+        flex-direction: column;  
+    }
+    .imgmn{
+        display: flex;
+        flex-direction: column;  
+    }
+    .imgmr{
+        display: flex;
+        flex-direction: column;  
+    }
+    .imgp{
+        display: flex;
+        flex-direction: column;  
+    }
+    .imgpu{
+        display: flex;
+        flex-direction: column;  
+    }
+    .imgsp{
+        display: flex;
+        flex-direction: column;  
+    }
+    .imgspay{
+        display: flex;
+        flex-direction: column;  
+    }
+    .infocus{
+        display: flex;
+        flex-direction: column;  
+    }
+    .infopai{
+        display: flex;
+        flex-direction: column;  
+    }
+    .iteminfo{
+        display: flex;
+        flex-direction: column;  
+    }
+    .l7{
+        display: flex;
+        flex-direction: column;  
+    }
+    .logo{
+        display: flex;
+        flex-direction: column;  
+    }
+    .logoimg{
+        display: flex;
+        flex-direction: column;  
+    }
+    .logosecure{
+        display: flex;
+        flex-direction: column;  
+    }
+    .MainBanner{
+        display: flex;
+        flex-direction: column;  
+    }
+    .menu{
+        display: flex;
+        flex-direction: column;  
+    }
+    .menuitem{
+        display: flex;
+        flex-direction: column;
+    }
+    .menupai{
+        display: flex;
+        flex-direction: column;
+    }
+    .navg{
+        display: flex;
+        flex-direction: column;
+    }
+    .Payment{
+        display: flex;
+        flex-direction: column;
+    }
+    .pb{
+        display: flex;
+        flex-direction: column;
+    }
+    .pincel{
+        display: flex;
+        flex-direction: column;
+    }
+    .pname{
+        display: flex;
+        flex-direction: column;
+    }
+    .proda{
+        display: flex;
+        flex-direction: column;
+    }
+    .Produtos{
+        display: flex;
+        flex-direction: column;
+    }
+    .ps{
+        display: flex;
+        flex-direction: column;
+    }
+    .psqsub{
+        display: flex;
+        flex-direction: column;
+    }
+    .rodape{
+        display: flex;
+        flex-direction: column;
+    }
+    .sc{
+        display: flex;
+        flex-direction: column;
+    }
+    .securepagament{
+        display: flex;
+        flex-direction: column;
+    }
+    .sub{
+        display: flex;
+        flex-direction: column;
+    }
+    .suporte{
+        display: flex;
+        flex-direction: column;
+    }
+    .tel{
+        display: flex;
+        flex-direction: column;
+    }
+    .textcus{
+        display: flex;
+        flex-direction: column;
+    }
+    .textinfo{
+        display: flex;
+        flex-direction: column;
+    }
+    .title{
+        display: flex;
+        flex-direction: column;
+    }
+    .titleinfo{
+        display: flex;
         flex-direction: column;
     }
 }
